@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: rgb(232, 255, 196);
+    padding: 1px;
+    border-bottom: 2px solid rgb(199, 233, 209);
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav a{
+    color:rgb(57, 153, 180);
+    transition: color 0.5s;
+}
+
+nav a:hover{
+    color:rgb(241, 147, 147); 
+}
+
+footer{
+    background-color: rgb(232, 255, 196);
+    padding: 1px;
+    border-top: 2px solid rgb(199, 233, 209);
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    color:rgb(57, 153, 180);
+    transition: color 0.5s;
+}
+
+footer a:hover{
+    color:rgb(241, 147, 147); 
+}
+
+section.content{
+    background-color: rgb(199, 233, 230);
+}
