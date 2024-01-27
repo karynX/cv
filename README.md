@@ -1,4 +1,4 @@
-# karynhuang.github.io
+# karynX.github.io
   <h2>Description</h2>
   <p>A short CV website created while learning HTML and CSS.</p>
   <h2>Usage</h2>
